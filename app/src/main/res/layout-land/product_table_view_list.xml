@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+   android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp">
+
+
+        <TextView
+            android:id="@+id/productName"
+            android:layout_width="102dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="Name" />
+
+        <TextView
+            android:id="@+id/productID"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="220dp"
+            android:layout_marginTop="15dp"
+            android:text="ID" />
+
+        <TextView
+            android:id="@+id/productPrice"
+            android:layout_width="62dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="380dp"
+            android:layout_marginTop="15dp"
+            android:text="Price" />
+
+        <TextView
+            android:id="@+id/productInventory"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_marginLeft="600dp"
+            android:layout_marginTop="15dp"
+            android:text="Inventory" />
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

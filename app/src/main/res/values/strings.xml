@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">InventoryManagmentApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_product_add">ProductAddActivity</string>
+    <string name="title_activity_part_table">PartTable</string>
+    <string name="title_activity_product_table">ProductTable</string>
+    <string name="title_activity_part_add">PartAddActivity</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string-array name="partSpinner">
+
+
+        <item>partWidgetA</item>
+
+        <item>partWidgetB</item>
+
+        <item>partWidgetC</item>
+
+        <item>partWidgetD</item>
+
+    </string-array>
+
+
+    <string-array name="productSpinner">
+
+        <item>productWidgetABC</item>
+
+        <item>productWidgetDEF</item>
+
+        <item>productWidgetRST</item>
+
+        <item>productWidgetXYZ</item>
+
+
+    </string-array>
+    <string name="title_activity_side_panel_navigation">SidePanelNavigation</string>
+    <string name="title_activity_navigation_panel">NavigationPanel</string>
+    <string name="title_activity_nav_panel">NavPanel</string>
+    <string name="title_activity_side_nav_panel">SideNavPanelActivity</string>
+    <string name="title_activity_intro_nav">IntroNav</string>
+    <string name="title_activity_sally">Sally</string>
+    <string name="title_activity_blah">blah</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+
+
+    <string name="channel_name">notification channel</string>
+
+    <string name="channel_description">notification channel description</string>
+
+
+</resources>
